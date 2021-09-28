@@ -2,6 +2,8 @@
 {
 "asset_id":
 "f3de94e9-6af4-4169-b911-1e7028ca2021",
+"created":
+"2021-07-03T04:16:24.044188+00:00",
 "metadata":
 {
 "@context":
@@ -185,6 +187,8 @@
 {
 "asset_id":
 "1770132a-cd03-47c3-bdb2-18302500ccad",
+"created":
+"2021-07-03T04:16:24.179747+00:00",
 "metadata":
 {
 "@context":
@@ -368,6 +372,8 @@
 {
 "asset_id":
 "57da8390-5929-407c-adac-ea3b28139469",
+"created":
+"2021-07-03T04:16:24.308062+00:00",
 "metadata":
 {
 "@context":
@@ -551,6 +557,8 @@
 {
 "asset_id":
 "46d38c8b-4373-4735-85b8-423fdb5ff317",
+"created":
+"2021-07-03T04:16:24.439201+00:00",
 "metadata":
 {
 "@context":
@@ -734,6 +742,8 @@
 {
 "asset_id":
 "4f755b7a-763c-488d-9eec-6b5a15e2c9e2",
+"created":
+"2021-07-03T04:16:24.656786+00:00",
 "metadata":
 {
 "@context":
@@ -935,6 +945,8 @@
 {
 "asset_id":
 "93e0dc2b-09e7-402a-ae68-d1a3a6706518",
+"created":
+"2021-07-03T04:16:24.787097+00:00",
 "metadata":
 {
 "@context":
@@ -1109,6 +1121,8 @@
 {
 "asset_id":
 "56fcd1fa-f044-469b-8b5c-a427d37e749f",
+"created":
+"2021-07-03T04:16:24.917610+00:00",
 "metadata":
 {
 "@context":
@@ -1283,6 +1297,8 @@
 {
 "asset_id":
 "3b737dae-2142-4c31-a3d8-0124558aa247",
+"created":
+"2021-07-03T04:16:25.050218+00:00",
 "metadata":
 {
 "@context":
@@ -1466,6 +1482,8 @@
 {
 "asset_id":
 "02c28ea0-dae0-4096-a5a0-b2518dabe7d9",
+"created":
+"2021-07-03T04:16:25.176254+00:00",
 "metadata":
 {
 "@context":
@@ -1640,6 +1658,8 @@
 {
 "asset_id":
 "c7e38836-1712-464c-a0d1-3a2b43dd7604",
+"created":
+"2021-07-03T04:16:25.303910+00:00",
 "metadata":
 {
 "@context":
@@ -1823,6 +1843,8 @@
 {
 "asset_id":
 "8120e01c-a747-42b7-91b7-032b9b923a9b",
+"created":
+"2021-07-03T04:16:25.433200+00:00",
 "metadata":
 {
 "@context":
@@ -2006,6 +2028,8 @@
 {
 "asset_id":
 "6d193dbd-f42c-4d5a-945b-4c721082cfe3",
+"created":
+"2021-07-03T04:16:25.656093+00:00",
 "metadata":
 {
 "@context":
@@ -2189,6 +2213,8 @@
 {
 "asset_id":
 "1845cb7b-eeb7-4ecf-a65e-6fe8fe250fb9",
+"created":
+"2021-07-03T04:16:25.791373+00:00",
 "metadata":
 {
 "@context":
@@ -2390,6 +2416,8 @@
 {
 "asset_id":
 "9899490d-395c-430c-8acc-6f1f772af859",
+"created":
+"2021-07-03T04:16:25.916967+00:00",
 "metadata":
 {
 "@context":
@@ -2573,6 +2601,8 @@
 {
 "asset_id":
 "ec4e0213-1c27-46dd-a4fb-0b3638b42c53",
+"created":
+"2021-07-03T04:16:26.045584+00:00",
 "metadata":
 {
 "@context":
@@ -2774,6 +2804,8 @@
 {
 "asset_id":
 "4651b77b-162e-4449-aca0-aca12b8b25bd",
+"created":
+"2021-07-03T04:16:26.178601+00:00",
 "metadata":
 {
 "@context":
@@ -2975,6 +3007,8 @@
 {
 "asset_id":
 "5858debc-35a5-404b-b141-3b09274c505c",
+"created":
+"2021-07-03T04:16:26.305360+00:00",
 "metadata":
 {
 "@context":
@@ -3176,6 +3210,8 @@
 {
 "asset_id":
 "55583159-e897-4b77-8a81-48c78e8b6227",
+"created":
+"2021-07-03T04:16:26.434584+00:00",
 "metadata":
 {
 "@context":
@@ -3359,6 +3395,8 @@
 {
 "asset_id":
 "1980fc1c-68e9-4c30-8275-8ff8295503ba",
+"created":
+"2021-07-03T04:16:26.571379+00:00",
 "metadata":
 {
 "@context":
@@ -3560,6 +3598,8 @@
 {
 "asset_id":
 "725c348e-11e0-484f-9f99-795c105ab491",
+"created":
+"2021-07-03T04:16:26.781057+00:00",
 "metadata":
 {
 "@context":
@@ -3743,6 +3783,8 @@
 {
 "asset_id":
 "5238d824-38d2-449f-abda-06ce35dadd14",
+"created":
+"2021-07-03T04:16:26.914725+00:00",
 "metadata":
 {
 "@context":
@@ -3926,6 +3968,8 @@
 {
 "asset_id":
 "9ef87ba0-bff7-460d-9ab3-4b43802d7a89",
+"created":
+"2021-07-03T04:16:27.040931+00:00",
 "metadata":
 {
 "@context":
@@ -4109,6 +4153,8 @@
 {
 "asset_id":
 "f258d194-1cdf-4e49-a5f1-e4b8c36b5b9d",
+"created":
+"2021-07-03T04:16:27.168068+00:00",
 "metadata":
 {
 "@context":
@@ -4292,6 +4338,8 @@
 {
 "asset_id":
 "eb434028-c4d4-43c2-913c-021f3841f7c8",
+"created":
+"2021-07-03T04:16:27.300221+00:00",
 "metadata":
 {
 "@context":
@@ -4475,6 +4523,8 @@
 {
 "asset_id":
 "82085bad-7980-4869-b9df-54e194dfdaa5",
+"created":
+"2021-07-03T04:16:27.432197+00:00",
 "metadata":
 {
 "@context":
@@ -4658,6 +4708,8 @@
 {
 "asset_id":
 "d084ccdc-6bd9-4961-b161-41ba0df81977",
+"created":
+"2021-07-03T04:16:27.567093+00:00",
 "metadata":
 {
 "@context":
@@ -4859,6 +4911,8 @@
 {
 "asset_id":
 "e47050a2-a247-41db-8875-6969cb84590b",
+"created":
+"2021-07-03T04:16:27.772607+00:00",
 "metadata":
 {
 "@context":
@@ -5042,6 +5096,8 @@
 {
 "asset_id":
 "e203e428-e6c4-4b01-addd-ae1636b236e9",
+"created":
+"2021-07-03T04:16:27.899865+00:00",
 "metadata":
 {
 "@context":
@@ -5225,6 +5281,8 @@
 {
 "asset_id":
 "1e1c86a4-7f7f-4dea-8ccf-0ed32c1c63b4",
+"created":
+"2021-07-03T04:16:28.026894+00:00",
 "metadata":
 {
 "@context":
@@ -5408,6 +5466,8 @@
 {
 "asset_id":
 "0f214e9a-df23-484d-9e6c-710d9665a5cd",
+"created":
+"2021-07-03T04:16:28.152155+00:00",
 "metadata":
 {
 "@context":
@@ -5591,6 +5651,8 @@
 {
 "asset_id":
 "9d9b9ab7-efbf-4903-8aff-4c7b73a470fa",
+"created":
+"2021-07-03T04:16:28.276694+00:00",
 "metadata":
 {
 "@context":
@@ -5774,6 +5836,8 @@
 {
 "asset_id":
 "b8e552a5-bd73-4340-879c-b38b5ed6f017",
+"created":
+"2021-07-03T04:16:28.404685+00:00",
 "metadata":
 {
 "@context":
@@ -5957,6 +6021,8 @@
 {
 "asset_id":
 "865a9806-0371-464e-bd09-64bed8e9699c",
+"created":
+"2021-07-03T04:16:28.531612+00:00",
 "metadata":
 {
 "@context":
@@ -6158,6 +6224,8 @@
 {
 "asset_id":
 "32354f76-72c6-4eca-adf6-8789df2e4b16",
+"created":
+"2021-07-03T04:16:28.678639+00:00",
 "metadata":
 {
 "@context":
@@ -6341,6 +6409,8 @@
 {
 "asset_id":
 "e063370e-e7ba-4125-afa7-cf4e1b509e91",
+"created":
+"2021-07-03T04:16:28.868968+00:00",
 "metadata":
 {
 "@context":
@@ -6524,6 +6594,8 @@
 {
 "asset_id":
 "54c2025d-b41b-4545-a978-80ff53a2aaf9",
+"created":
+"2021-07-03T04:16:28.995343+00:00",
 "metadata":
 {
 "@context":
@@ -6707,6 +6779,8 @@
 {
 "asset_id":
 "0794c320-eeec-4c05-b176-8ba9acc21639",
+"created":
+"2021-07-03T04:16:29.123093+00:00",
 "metadata":
 {
 "@context":
@@ -6890,6 +6964,8 @@
 {
 "asset_id":
 "2b423b97-164e-483c-aeda-4ece2ace2cfb",
+"created":
+"2021-07-03T04:16:29.258775+00:00",
 "metadata":
 {
 "@context":
@@ -7073,6 +7149,8 @@
 {
 "asset_id":
 "d1086d96-1086-4268-954a-2a47a5bab3d7",
+"created":
+"2021-07-03T04:16:29.393586+00:00",
 "metadata":
 {
 "@context":
@@ -7256,6 +7334,8 @@
 {
 "asset_id":
 "7b943941-7a66-418e-ba51-d3c809305d40",
+"created":
+"2021-07-03T04:16:29.531364+00:00",
 "metadata":
 {
 "@context":
@@ -7457,6 +7537,8 @@
 {
 "asset_id":
 "fab87a15-0156-440b-8015-3e7b316e302f",
+"created":
+"2021-07-03T04:16:29.661498+00:00",
 "metadata":
 {
 "@context":
@@ -7640,6 +7722,8 @@
 {
 "asset_id":
 "8f42a6ef-2f70-4486-98bd-91e69c3c7b81",
+"created":
+"2021-07-03T04:16:29.879595+00:00",
 "metadata":
 {
 "@context":
@@ -7823,6 +7907,8 @@
 {
 "asset_id":
 "30dd0163-57b2-46a7-b262-6f6bbb4d3a9f",
+"created":
+"2021-07-03T04:16:30.012142+00:00",
 "metadata":
 {
 "@context":
@@ -8006,6 +8092,8 @@
 {
 "asset_id":
 "bec4a928-2215-4cb7-af2e-7062933cd173",
+"created":
+"2021-07-03T04:16:30.139915+00:00",
 "metadata":
 {
 "@context":
@@ -8189,6 +8277,8 @@
 {
 "asset_id":
 "0de67890-0dd9-4933-a47a-30b7aee59431",
+"created":
+"2021-07-03T04:16:30.268165+00:00",
 "metadata":
 {
 "@context":
@@ -8372,6 +8462,8 @@
 {
 "asset_id":
 "b76c1370-2cd3-4044-aef5-e57564cd44c1",
+"created":
+"2021-07-03T04:16:30.401150+00:00",
 "metadata":
 {
 "@context":
@@ -8555,6 +8647,8 @@
 {
 "asset_id":
 "ffd3a0d8-2459-4e34-820c-b81dc30934dc",
+"created":
+"2021-07-03T04:16:30.528099+00:00",
 "metadata":
 {
 "@context":
@@ -8738,6 +8832,8 @@
 {
 "asset_id":
 "ef0a4761-ee4e-42ef-b2cb-fd65617ee43a",
+"created":
+"2021-07-03T04:16:30.654566+00:00",
 "metadata":
 {
 "@context":
@@ -8921,6 +9017,8 @@
 {
 "asset_id":
 "031123e5-31fe-408f-ad45-f8aaa6c9aa9f",
+"created":
+"2021-07-03T04:16:30.872274+00:00",
 "metadata":
 {
 "@context":
@@ -9122,6 +9220,8 @@
 {
 "asset_id":
 "66d2620f-0b58-4400-bbf0-67554597bec1",
+"created":
+"2021-07-03T04:16:31.000527+00:00",
 "metadata":
 {
 "@context":
@@ -9305,6 +9405,8 @@
 {
 "asset_id":
 "0b6ef6a1-8fe5-41b9-929e-429e15c27682",
+"created":
+"2021-07-03T04:16:31.196715+00:00",
 "metadata":
 {
 "@context":
@@ -9488,6 +9590,8 @@
 {
 "asset_id":
 "ab1c9a7b-6fe9-4ccb-9dc7-caf2bbfb877a",
+"created":
+"2021-07-03T04:16:31.355177+00:00",
 "metadata":
 {
 "@context":
@@ -9671,6 +9775,8 @@
 {
 "asset_id":
 "9d6ff4ba-fa9b-45fb-a2a9-1f55f1062917",
+"created":
+"2021-07-03T04:16:31.484744+00:00",
 "metadata":
 {
 "@context":
@@ -9854,6 +9960,8 @@
 {
 "asset_id":
 "f3aa35c9-3bb9-41b8-add5-7a9dcb92361b",
+"created":
+"2021-07-03T04:16:31.616866+00:00",
 "metadata":
 {
 "@context":
@@ -10037,6 +10145,8 @@
 {
 "asset_id":
 "eb79a7a8-11fe-4aa1-aab0-b8ca138dd862",
+"created":
+"2021-07-03T04:16:31.744727+00:00",
 "metadata":
 {
 "@context":
@@ -10220,6 +10330,8 @@
 {
 "asset_id":
 "fc4454da-57d5-495f-a82e-ad71b26fe2a7",
+"created":
+"2021-07-03T04:16:31.877247+00:00",
 "metadata":
 {
 "@context":
