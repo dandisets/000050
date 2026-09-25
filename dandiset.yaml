@@ -39,22 +39,70 @@ assetsSummary:
   - Units
   - PlaneSegmentation
   - BehavioralTimeSeries
-citation: Allen Institute - Run Tuning in the Mouse Visual Cortex (2026). (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000050/draft
+citation: Allen Institute; Ocker, Gabriel Koch; de Vries, Saskia; Buice, Michael;
+  Millman, Daniel; Caldejon, Shiella; Kato, India; Lee, Eric Kenji; Luviano, Jennifer;
+  Nayan, Chelsea; Nguyen, Thuyanh V; North, Kat; Seid, Sam; White, Cassandra; Lecoq,
+  Jerome (2026) Allen Institute - Run Tuning in the Mouse Visual Cortex (Version draft)
+  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000050/draft
 contributor:
-- name: Allen Institute
+- includeInCitation: true
+  name: Allen Institute
   schemaKey: Organization
+- includeInCitation: true
+  name: Ocker, Gabriel Koch
+  schemaKey: Person
 - email: saskiad@alleninstitute.org
+  includeInCitation: true
   name: de Vries, Saskia
+  roleName:
+  - dcite:ContactPerson
   schemaKey: Person
 - email: michaelbu@alleninstitute.org
+  includeInCitation: true
   name: Buice, Michael
   schemaKey: Person
+- includeInCitation: true
+  name: Millman, Daniel
+  schemaKey: Person
+- includeInCitation: true
+  name: Caldejon, Shiella
+  schemaKey: Person
+- includeInCitation: true
+  name: Kato, India
+  schemaKey: Person
+- name: Larkin, Josh
+  schemaKey: Person
+- includeInCitation: true
+  name: Lee, Eric Kenji
+  schemaKey: Person
+- includeInCitation: true
+  name: Luviano, Jennifer
+  schemaKey: Person
+- includeInCitation: true
+  name: Nayan, Chelsea
+  schemaKey: Person
+- includeInCitation: true
+  name: Nguyen, Thuyanh V
+  schemaKey: Person
+- includeInCitation: true
+  name: North, Kat
+  schemaKey: Person
+- includeInCitation: true
+  name: Seid, Sam
+  schemaKey: Person
+- includeInCitation: true
+  name: White, Cassandra
+  schemaKey: Person
+- includeInCitation: true
+  name: Lecoq, Jerome
+  schemaKey: Person
 dateCreated: '2020-12-10T18:05:06.949000+00:00'
-description: 2-photon calcium imaging in the mouse visual cortex with a reduced set
-  of drifting gratings stimulus. Mouse is awake on a running wheel. The goal is to
-  have an increased number of stationary and runnig trials in order to make more rigorous
-  comparison of the influence of locomotion on visual responses.
+description: 2-photon calcium imaging in the mouse primary visual cortex using drifting
+  gratings stimulus. Excitatory neurons in either layer 2/3 or layer 5 are imaged.
+  The mouse is awake and on a running disc. The goal is to have an increased number
+  of stationary and running trials in order to make more rigorous comparison of the
+  influence of locomotion on visual responses. This data was collected as part of
+  the Allen Brain Observatory Visual Coding project and is related to those datasets.
 ethicsApproval: []
 id: DANDI:000050/draft
 identifier: DANDI:000050
